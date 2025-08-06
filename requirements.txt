@@ -1,0 +1,6 @@
+asyncio
+pydantic
+python-dotenv
+google-generativeai
+crawl4ai
+boto3
