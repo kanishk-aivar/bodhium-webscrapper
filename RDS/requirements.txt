@@ -1,0 +1,54 @@
+# Core AWS dependencies (compatible versions)
+boto3==1.35.82
+botocore==1.35.82
+
+# PostgreSQL database connectivity
+psycopg2-binary==2.9.10
+
+# Data processing and CSV handling
+pandas==2.2.3
+
+# HTTP and networking
+requests==2.32.4
+urllib3==2.5.0
+
+# Environment configuration
+python-dotenv==1.0.1
+
+# Date and time handling
+python-dateutil==2.9.0
+
+# Async file operations
+aiofiles==24.1.0
+
+# JSON handling
+orjson==3.10.12
+
+# Data validation
+pydantic==2.11.7
+
+# Logging
+structlog==24.4.0
+
+# Security
+cryptography==45.0.6
+
+# Utilities (built-in modules don't need installation)
+# pathlib - built-in
+# hashlib - built-in  
+# datetime - built-in
+# uuid - built-in
+# decimal - built-in
+# csv - built-in
+# io - built-in
+
+# Additional utilities
+six==1.17.0
+typing-extensions==4.14.1
+google-generativeai>=0.3.0
+crawl4ai
+pydantic
+python-dotenv
+boto3
+psycopg2-binary
+asyncio
